@@ -7,11 +7,12 @@
 </p>
 ---
 
-# 👋 About Me
+<h2 align="center">👋 About Me</h2>
 
-I am a **Full Stack Developer and Open Source Enthusiast** passionate about building fast, reliable, and scalable web applications.  
-I enjoy turning complex ideas into practical software solutions using **clean code** and strong **engineering principles**.
-<!---
+<p align="center">
+I am a <b>Full Stack Developer and Open Source Enthusiast</b> passionate about building fast, reliable, and scalable web applications.<br>
+I enjoy turning complex ideas into practical software solutions using <b>clean code</b> and strong <b>engineering principles</b>.
+</p>
 enoshjoseph/enoshjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
