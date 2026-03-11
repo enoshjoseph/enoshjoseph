@@ -5,13 +5,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=900&color=00FF41&lines=Full+Stack+Developer;Open+Source+Enthusiast;Passionate+About+Coding,+DSA+%26+Problem+Solving">
 </p>
-- 👋 Hi, I’m Enosh Joseph
-- 👀 I’m interested in Software development, web technologies,
-- 🌱Pursuing my Master’s in Computer Application while sharpening my skills in coding, algorithms, and software architecture.
-- 💞️ I’m looking to collaborate on innovative projects — especially anything web, AI, or app-related. Always eager to learn and contribute!
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: My personal motto? "Forget all restrictions and go wild!" — I bring that energy to coding and life alike.
+## 👋 About Me
+I am a **Full Stack Developer and Open Source Enthusiast** passionate about building fast, reliable, and scalable web applications.  
 
 <!---
 enoshjoseph/enoshjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
