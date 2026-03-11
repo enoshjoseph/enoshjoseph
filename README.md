@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=900&color=00FF41&lines=Full+Stack+Developer;Open+Source+Enthusiast;Passionate+About+Coding,+DSA+%26+Problem+Solving">
 </p>
----
 
 <h2 align="center">👋 About Me</h2>
 
@@ -13,6 +12,4 @@
 I am a <b>Full Stack Developer and Open Source Enthusiast</b> passionate about building fast, reliable, and scalable web applications.<br>
 I enjoy turning complex ideas into practical software solutions using <b>clean code</b> and strong <b>engineering principles</b>.
 </p>
-enoshjoseph/enoshjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
