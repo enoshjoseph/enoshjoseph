@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=700&color=00FF41&lines=Full+Stack+Developer;Open+Source+Enthusiast;Passionate+About+Coding,+DSA+%26+Problem+Solving">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=900&color=00FF41&lines=Full+Stack+Developer;Open+Source+Enthusiast;Passionate+About+Coding,+DSA+%26+Problem+Solving">
 </p>
 - 👋 Hi, I’m Enosh Joseph
 - 👀 I’m interested in Software development, web technologies,
