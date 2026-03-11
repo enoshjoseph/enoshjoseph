@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNnd2FyejNibTYxZ2x2eGF5eDZ3MmthYTR3YTVxY2hqdmtrancyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="100%" height="280">
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;Passionate+About+Coding,+DSA+%26+Problem+Solving">
+</p>
 - 👋 Hi, I’m Enosh Joseph
 - 👀 I’m interested in Software development, web technologies,
 - 🌱Pursuing my Master’s in Computer Application while sharpening my skills in coding, algorithms, and software architecture.
